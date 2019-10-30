@@ -2121,6 +2121,7 @@ Aleksey Koloskov OTUS-DevOps-2019-08 Infra repository
 #### Прочие изменения
 
 * В [ansible/ansible.cfg](ansible/ansible.cfg) настроена загрузка внешних ролей в [ansible/roles_imported](ansible/roles_imported)
+* 
 
 # Makefile
 
